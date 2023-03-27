@@ -1,4 +1,4 @@
-// selectors
+// global Variables
 const gameBoard = document.querySelector("#gameboard");
 const info = document.getElementById("info");
 const newGameBtn = document.getElementById("new-game-btn");
